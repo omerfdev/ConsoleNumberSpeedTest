@@ -1,6 +1,5 @@
 ﻿namespace ConsoleNumberSpeedTest
-{
-   
+{  
    
     public class Program
     {
